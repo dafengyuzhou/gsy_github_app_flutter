@@ -1,0 +1,6 @@
+package package_name.gsy_github_app_flutter
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
